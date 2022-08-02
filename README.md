@@ -1,4 +1,4 @@
-# SummerProjects
+# A* PathFinder
 
   Path finding visualization
 
